@@ -135,7 +135,7 @@ GET /api/v1/jobs/{jobId}
 GET /actuator/health
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -194,7 +194,7 @@ docker compose logs api-service
 docker compose logs spark-worker
 ```
 
-## 🏃‍♂️ Development
+## Development
 
 ### Project Structure
 ```
@@ -228,7 +228,7 @@ mvn clean package
 2. Add required dependencies to `pom.xml`
 3. Rebuild and deploy
 
-## 🔒 Security
+## Security
 
 ### Default Credentials
 - **MinIO**: admin/password123
