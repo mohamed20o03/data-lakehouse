@@ -1,4 +1,4 @@
-# Data Lakehouse Platform
+# Data Lakehouse 
 
 A modern, scalable data lakehouse platform built with Apache Spark, Apache Iceberg, and Spring Boot. This platform provides a complete data ingestion and processing pipeline with real-time job management and cloud-native storage.
 
